@@ -1,0 +1,7 @@
+version: 2
+
+sources:
+  - name: tap_toggl
+    tables:
+      - name: time_entries
+      - name: time_entries_current
